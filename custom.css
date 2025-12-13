@@ -1,0 +1,80 @@
+.tableFixHead {
+  overflow-y: auto;
+  /* make the table scrollable if height is more than 200 px  */
+  height: 400px;
+  /* gives an initial height of 200px to the table */
+}
+
+.tableFixHead thead th {
+  position: sticky;
+  /* make the table heads sticky */
+  top: 0px;
+  /* table head will be placed from the top of the table and sticks to it */
+  background-color: #eeeeee;
+}
+
+table {
+  border-collapse: collapse;
+  /* make the table borders collapse to each other */
+  width: 100%;
+}
+
+th,
+td {
+  padding: 0px 0px;
+  border: 0px solid #ccc;
+}
+
+thead {
+  background-image: linear-gradient(0deg, rgb(240, 236, 236, 1), rgb(	240, 236, 236, 1));
+  background-color: var(--bs-body-bg);
+  background-blend-mode: multiply;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.myHighlighted {
+  background-color: rgb(135, 179, 154);
+}
+
+.myHighlightedCell {
+  background-color: rgb(135, 179, 154) !important;
+}
+
+.btn.btn-quarto, div.cell-output-display .btn-quarto {
+  color:#ccc
+}
+
+.top-button {
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background-color: rgb(240,236,236);
+  color: rgb(135, 129, 221);
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.top-button:hover {
+  background-color: rgb(189, 166, 166);
+}
+
+.monster {
+  width: 100%;
+}
+
+.matrix-firstcol-shade th:first-child,
+.matrix-firstcol-shade td:first-child { background-color: rgba(0,0,0,0.02); font-weight: 600; }
+
+table.backgrounds-table col:nth-child(1) { width:5%; }
+table.backgrounds-table col:nth-child(2) { width:15%; }
+table.backgrounds-table col:nth-child(3) { width:15%; }
+table.backgrounds-table col:nth-child(4) { width:15%; }
+table.backgrounds-table col:nth-child(5) { width:50%; }
+

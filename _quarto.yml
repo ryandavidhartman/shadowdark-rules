@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Shadowdark Clone"
+  author: "Ryan Hartman"
+  date: "12/12/2025"
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - part: Introduction
+      chapters:
+        - introduction/theBasics.qmd
+    - part: Characters
+      chapters: 
+        - a.qmd
+    - part: Magic
+      chapters: 
+        - a.qmd
+    - part: Gameplay
+      chapters: 
+        - a.qmd
+    - part: Game Master
+      chapters: 
+        - a.qmd
+    - part: Random Encounter Table
+      chapters: 
+        - a.qmd
+    - part: Monsters
+      chapters: 
+        - a.qmd   
+    - part: Treasure
+      chapters: 
+        - a.qmd
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: Solar
+    number-depth: 0
+    css: [custom.css, styles.css]
+    toc-depth: 4
+    execute:
+      echo: false
+    header-includes: |
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Caudex">
+    mainfont: "Caudex"
+    include-after-body: toggle-images.html
+  pdf:
+    latex-template: "custom.tex"
+    number-depth: 0
+    toc-depth: 2
+    toc: true
+    execute:
+      echo: false
+    documentclass: report
+    page-layout: full
+    include-in-header: preamble.tex
+  # pdf:
+  #   documentclass: scrreprt
