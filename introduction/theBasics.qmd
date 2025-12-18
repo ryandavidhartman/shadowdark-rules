@@ -1,21 +1,2 @@
-# Basics
+# The Basics
 
-:::: {.columns}
-::: {.column width="48%"}
-Left column content goes here.
-
-- Text
-- Tables
-:::
-
-::: {.column width="4%"}
-&nbsp;
-:::
-
-::: {.column width="48%"}
-Right column content goes here.
-
-- More text
-- Images
-:::
-::::
