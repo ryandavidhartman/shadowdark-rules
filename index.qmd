@@ -54,7 +54,7 @@
 
 ### Morale
 
-Enemies who are reduced to half their number (or half their hit points for a solo enemy) **flee** if they fail a DC 15 Wisdom check.  Large Groups. Make one check using the leader's WIS modifier.
+Enemies who are reduced to half their number (or half their hit points for a solo enemy) **flee** if they fail a DC 15 Wisdom check.
 
 **Large Groups.** Make one check using the leader's WIS modifier.
 
