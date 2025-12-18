@@ -29,13 +29,13 @@
 ## Armor
 
 :::{#armor-table}
-| **Item**                  | **Cost** | **Slots** | **AC**       | **Properties**             |
-|---------------------------|----------|-----------|--------------|----------------------------|
-| Leather armor             | 10 gp    | 1         | 11 + DEX mod | —                          |
-| Chainmail                 | 60 gp    | 2         | 13 + DEX mod | Disadv on stealth, swim    |
-| Plate mail                | 130 gp   | 3         | 15           | No swim, disadv on stealth |
-| Shield                    | 10 gp    | 1         | +2           | Occupies one hand          |
-| Mithral (metal armor only)| ×4       | -1        | —            | No penalty stealth, swim   |
+| **Item**                  | **Cost** | **Slots** | **AC**   | **Properties**             |
+|---------------------------|----------|-----------|----------|----------------------------|
+| Leather armor             | 10 gp    | 1         | 11 + DEX | —                          |
+| Chainmail                 | 60 gp    | 2         | 13 + DEX | Disadv on stealth, swim    |
+| Plate mail                | 130 gp   | 3         | 15       | No swim, disadv on stealth |
+| Shield                    | 10 gp    | 1         | +2       | Occupies one hand          |
+| Mithral (metal armor only)| ×4       | -1        | —        | No penalty stealth, swim   |
 :::
 
 :::{.table-caption}
@@ -162,7 +162,7 @@ You can't cast other focus spells while focusing. Do a spellcasting check at the
 :::
 ::::
 
-## XP FOR Treasure Quality
+## XP For Treasure
 
 :::{#treasure-quality-xp-table}
 | **Quality**   | **XP** | **Examples**                                                |
@@ -177,7 +177,7 @@ You can't cast other focus spells while focusing. Do a spellcasting check at the
 **Table:** Treasure Quality and Experience Awards
 :::
 
-## Random Names by Ancestry
+## Random Names
 
 :::{#random-names-table}
 | **d20** | **Dwarf**  | **Elf**     | **Goblin** | **Halfling** | **Half-Orc** | **Human**  |
