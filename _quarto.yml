@@ -48,4 +48,5 @@ format:
     header-includes: |
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Caudex">
     mainfont: "Caudex"
+    smooth-scroll: true
 
