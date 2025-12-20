@@ -40,8 +40,8 @@ book:
 format:
   html:
     theme:
-      light: cosmo
       dark: solar
+      light: cosmo
     number-depth: 0
     toc-depth: 4
     css: [custom.css, styles.css]
