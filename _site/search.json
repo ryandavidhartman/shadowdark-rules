@@ -61,110 +61,11 @@
     ]
   },
   {
-    "objectID": "introduction/theBasics.html#intro",
-    "href": "introduction/theBasics.html#intro",
+    "objectID": "introduction/theBasics.html",
+    "href": "introduction/theBasics.html",
     "title": "3  The Basics",
-    "section": "Intro",
-    "text": "Intro\nIf this is your first time playing Shadowdark RPG, it’s helpful to start with a premade character. The free digital Shadowdark RPG Quickstart Set has a few!",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#characters",
-    "href": "introduction/theBasics.html#characters",
-    "title": "3  The Basics",
-    "section": "Characters",
-    "text": "Characters\nYou decide your character’s actions and tell them to the referee, or Game Master (GM).\nThe GM determines if your actions are successful and describes the results.\nThis back-and-forth between you, the GM, and your adventuring companions grows and shapes the game world.\nAlways ask yourself: If you were really your character, what would you do right now?",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#actions",
-    "href": "introduction/theBasics.html#actions",
-    "title": "3  The Basics",
-    "section": "Actions",
-    "text": "Actions\nOn your turn, describe an action you want to do. For example, you could say you’re going to shoot your bow at a troll.\nThe GM might ask you to do a check (see Checks) to determine whether your action succeeds.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#movement",
-    "href": "introduction/theBasics.html#movement",
-    "title": "3  The Basics",
-    "section": "Movement",
-    "text": "Movement\nDuring your turn, you can move up to near (roughly 30 feet). You can break this movement up in any way If you don’t take an action, you can move near again.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#rounds",
-    "href": "introduction/theBasics.html#rounds",
-    "title": "3  The Basics",
-    "section": "Rounds",
-    "text": "Rounds\nEach person takes a turn, starting with the GM and going clockwise. The GM controls the monsters and environment and narrates how everyone’s actions change the game world. Once everyone has taken a turn, that completes one round. Then, a new round begins.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#dice",
-    "href": "introduction/theBasics.html#dice",
-    "title": "3  The Basics",
-    "section": "Dice",
-    "text": "Dice\nYou’ll need a four-sided (d4), six-sided (d6), eight-sided (d8), ten-sided (d10), twelve-sided (d12) and twenty-sided (d20) die.\nMultiples. 3d6 = three six-sided dice. Roll them together and add them.\nAdvantage. Roll two times and use the better result.\nDisadvantage. Roll two times and use the worse result.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#stats",
-    "href": "introduction/theBasics.html#stats",
-    "title": "3  The Basics",
-    "section": "Stats",
-    "text": "Stats\nStats are your characteristics. Each stat goes from 3-18 and has a bonus or penalty (called a modifier, or MOD) from -4 to +4.\nStrength. Physical power.\nDexterity. Agility, reflexes.\nConstitution. Endurance, resistance to injury.\nIntelligence. Logical ability.\nWisdom. Instinct, willpower.\nCharisma. Appeal, presence.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#checks",
-    "href": "introduction/theBasics.html#checks",
-    "title": "3  The Basics",
-    "section": "Checks",
-    "text": "Checks\nWhen attempting a risky action, roll a d20 and add a modifier. That’s called making a check.\nThe GM chooses the check’s linked stat and a number called a difficulty class (DC). If the total of your d20 roll + stat modifier equals or beats the DC, your action succeeds.\nFor example, the GM might say leaping over a narrow chasm requires a DC 9 Strength check.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#hit-points",
-    "href": "introduction/theBasics.html#hit-points",
-    "title": "3  The Basics",
-    "section": "Hit Points",
-    "text": "Hit Points\nInjuries cause you to take damage and lose hit points (HP). Typical weapons deal 1d6 damage to your HP You regain lost HP after a night of rest.\nCharacters at zero HP die in 1d4 + Constitution modifier (minimum 1) rounds. Dead characters are retired from play!",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
-    ]
-  },
-  {
-    "objectID": "introduction/theBasics.html#whats-next",
-    "href": "introduction/theBasics.html#whats-next",
-    "title": "3  The Basics",
-    "section": "What’s Next?",
-    "text": "What’s Next?\nYou could play a whole game with just the basics. But once you’re ready for more, the next chapters expand upon them.",
+    "section": "",
+    "text": "If this is your first time playing Shadowdark RPG, it’s helpful to start with a premade character. The free digital Shadowdark RPG Quickstart Set has a few!\n\n\n\nCharacters\nYou decide your character’s actions and tell them to the referee, or Game Master (GM).\nThe GM determines if your actions are successful and describes the results.\nThis back-and-forth between you, the GM, and your adventuring companions grows and shapes the game world.\n\n\nRole Play\nAlways ask yourself: If you were really your character, what would you do right now?\n\n\n\n \n\n\nActions\nOn your turn, describe an action you want to do. For example, you could say you’re going to shoot your bow at a troll.\nThe GM might ask you to do a check (see Checks) to determine whether your action succeeds.\n\n\nMovement\nDuring your turn, you can move up to near (roughly 30 feet). You can break this movement up in any way If you don’t take an action, you can move near again.\n\n\nRounds\nEach person takes a turn, starting with the GM and going clockwise. The GM controls the monsters and environment and narrates how everyone’s actions change the game world. Once everyone has taken a turn, that completes one round. Then, a new round begins.\n\n\n\n\n\n\n\nDice\nYou’ll need a four-sided (d4), six-sided (d6), eight-sided (d8), ten-sided (d10), twelve-sided (d12) and twenty-sided (d20) die.\nMultiples. 3d6 = three six-sided dice. Roll them together and add them.\nAdvantage. Roll two times and use the better result.\nDisadvantage. Roll two times and use the worse result.\n\n\nStats\nStats are your characteristics. Each stat goes from 3-18 and has a bonus or penalty (called a modifier, or MOD) from -4 to +4.\nStrength. Physical power.\nDexterity. Agility, reflexes.\nConstitution. Endurance, resistance to injury.\nIntelligence. Logical ability.\nWisdom. Instinct, willpower.\nCharisma. Appeal, presence.\n\n\n \n\n\nChecks\nWhen attempting a risky action, roll a d20 and add a modifier. That’s called making a check.\nThe GM chooses the check’s linked stat and a number called a difficulty class (DC). If the total of your d20 roll + stat modifier equals or beats the DC, your action succeeds.\nFor example, the GM might say leaping over a narrow chasm requires a DC 9 Strength check.\n\n\nHit Points\nInjuries cause you to take damage and lose hit points (HP). Typical weapons deal 1d6 damage to your HP You regain lost HP after a night of rest.\nCharacters at zero HP die in 1d4 + Constitution modifier (minimum 1) rounds. Dead characters are retired from play!\n\n\nWhat’s Next?\nYou could play a whole game with just the basics. But once you’re ready for more, the next chapters expand upon them.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Basics</span>"
@@ -175,10 +76,21 @@
     "href": "characters/index.html",
     "title": "4  Characters",
     "section": "",
-    "text": "ryan\n\n \n\nhartman\n\n\n\n\n\nryan\n\n \n\nhartman",
+    "text": "To make a Shadowdark RPG character (also called a player character, or PC), grab your dice, a blank character sheet, and go through the next few pages. You can also view a https://youtube.com/thearcanelibrary\n\n\n\nName\nChoose a worthy name for your adventurer.\n\n\nAncestry\nYour character’s cultural and ancestral heritage.\n\n\nClass\nYour character’s job.\n\n\nLevel\nYou start at either 0 or 1st level. You gain levels by earning XP.\n\n\nXP\nYou start with 0 experience points (XP). You gain XP based on the treasure and boons you earn from adventuring.\n\n\n\n \n\n\nAlignment & Deity\nYour character’s cosmic link to the opposing forces of Law and Chaos, or balanced Neutrality.\n\n\nTitle\nAs you gain levels, your prestige grows. Your title is based on your level, class, and alignment.\n\n\nBackground\nYour history and past experience. You are adept at tasks related to your background.\n\n\nStats\nThe six scores that determine your physical and mental characteristics.\n\n\nHP\nHit points (HP) represent the amount of injury you can sustain before you die. Taking damage from weapons, traps, spells, or other sources temporarily reduces your HP. You can regain HP by resting.\n\n\n\n\n\n\n\nAC\nArmor class (AC) is a type of difficulty class that shows how tough it is to injure you, whether because you’re agile or you wear armor. Your class determines the type of armor you can wear.\n\n\nAttacks\nThe weapons you wield and how you use them to fight an enemy (see Combat on pg. 88 for details). You can wield the weapons listed for your class\n\n\n \n\n\nTalents\nYour special abilities. Your class, ancestry, and talent rolls grant you these. The benefits of talents combine (even the same talent rolled multiple times).\n\n\nGear\nYour equipment. You can carry a number of items equal to 10 or your Strength stat, whichever is higher (see the Gear section on pg. 34 for more details).",
     "crumbs": [
       "Characters",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Characters</span>"
+    ]
+  },
+  {
+    "objectID": "characters/startingLevel.html",
+    "href": "characters/startingLevel.html",
+    "title": "5  Starting Level",
+    "section": "",
+    "text": "ryan\n\n \n\nhartman\n\n\n\n\n\nryan\n\n \n\nhartman",
+    "crumbs": [
+      "Characters",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Starting Level</span>"
     ]
   }
 ]

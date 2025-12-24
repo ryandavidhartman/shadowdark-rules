@@ -1,0 +1,41 @@
+# Starting Level
+
+:::: {.columns }
+::: {.column width="49%" }
+ 
+ ryan
+
+:::
+
+::: {.column width="2%"}
+&nbsp;
+:::
+
+::: {.column width="49%"}
+
+hartman
+
+:::
+::::
+
+----------
+
+
+:::: {.columns }
+::: {.column width="49%" }
+
+ryan
+
+:::
+
+::: {.column width="2%"}
+&nbsp;
+:::
+
+::: {.column width="49%"}
+
+hartman
+
+:::
+::::
+

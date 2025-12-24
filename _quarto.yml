@@ -19,6 +19,7 @@ book:
     - part: Characters
       chapters:
         - characters/index.qmd
+        - characters/startingLevel.qmd
     - part: Magic
       chapters:
         - magic/index.qmd
